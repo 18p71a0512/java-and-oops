@@ -1,0 +1,10 @@
+Object-Orintated programming language is based on objects,instead of just functions and procedures.These objects are organized into classes,which allow individual objects to be group together.C++,c#,Java,Eiffel etc.All are Object-Oriented proogramminnng language.
+The four basics of OOP are abstraction, encapsulation, inheritance, and polymorphism. These are the main ideas behind Java's Object-Oriented Programming.
+Abstraction:Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+Another way, it shows only essential things to the user and hides the internal details, for example, sending SMS where you type the text and send the message. You don't know the internal processing about the message delivery.
+Encapsualtion:Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines.
+Inheritance:Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. It is an important part of OOPs (Object Oriented programming system).
+Polymorphism:Polymorphism in Java is a concept by which we can perform a single action in different ways. Polymorphism is derived from 2 Greek words: poly and morphs. The word "poly" means many and "morphs" means forms. So polymorphism means many forms.
+There are two types of polymorphism in Java: compile-time polymorphism and runtime polymorphism. We can perform polymorphism in java by method overloading and method overriding.
+If you overload a static method in Java, it is the example of compile time polymorphism. Here, we will focus on runtime polymorphism in java.
+
